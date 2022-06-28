@@ -1,0 +1,31 @@
+1
+00:00:01,070 --> 00:00:07,200
+So target audience this course is designed for anyone interested in and map such as ethical hackers
+
+2
+00:00:07,200 --> 00:00:14,100
+penetration testers systems administrators techies and anyone in fact who wants to understand more about
+
+3
+00:00:14,100 --> 00:00:16,790
+the hose and devices on a given network.
+
+4
+00:00:17,040 --> 00:00:22,740
+This course assumes a basic understanding of operating systems networking on the Internet and map can
+
+5
+00:00:22,740 --> 00:00:27,120
+be used on Windows Mac Linux BSD and many other platforms.
+
+6
+00:00:27,120 --> 00:00:33,450
+If you've got one of those platforms then and that can be used on it and map is an important tool to
+
+7
+00:00:33,450 --> 00:00:40,410
+every system administrator hacker techie she'll be familiar with if you want to master all of the features
+
+8
+00:00:40,740 --> 00:00:43,160
+then this course is designed for you.

@@ -1,0 +1,91 @@
+1
+00:00:00,730 --> 00:00:03,550
+Greetings and welcome to my end of course.
+
+2
+00:00:03,550 --> 00:00:05,350
+Let me give you a quick introduction as to who I am.
+
+3
+00:00:05,350 --> 00:00:10,870
+If you don't know already my name is Nathan house and I'm the CEO and founder of the cyber security
+
+4
+00:00:10,870 --> 00:00:18,010
+company station X. And I'll be on Struktur throughout this comprehensive and Emap course over 24 years
+
+5
+00:00:18,010 --> 00:00:22,990
+experience in cybersecurity and I've advised many of the largest companies in the world.
+
+6
+00:00:23,010 --> 00:00:23,830
+Sure that's good.
+
+7
+00:00:23,920 --> 00:00:29,410
+A multi-million and even multi-billion pound projects I provide security guidance to companies such
+
+8
+00:00:29,410 --> 00:00:37,900
+as Vodafone BP visa the London 2012 Olympics and a number of banks and financial institutions plus many
+
+9
+00:00:37,900 --> 00:00:39,130
+other companies.
+
+10
+00:00:39,130 --> 00:00:45,100
+I was a security lead on a number of the UK mobile banking apps so if you live in the UK you may well
+
+11
+00:00:45,100 --> 00:00:48,620
+have an app on your phone that I have helped secure.
+
+12
+00:00:48,970 --> 00:00:57,820
+I have many security qualifications including susp cism CSA SC among others over the years.
+
+13
+00:00:57,930 --> 00:01:03,910
+I spoke on a number of conferences develop free security tools and discovered serious security vulnerabilities
+
+14
+00:01:03,910 --> 00:01:08,280
+in leading applications as a security educator.
+
+15
+00:01:08,300 --> 00:01:15,660
+I have sold over 50000 courses which were all highly reviewed and excellently rated of a popular cybersecurity
+
+16
+00:01:15,670 --> 00:01:21,500
+blog and I currently have over 60000 active Twitter followers who listen to my advice.
+
+17
+00:01:21,580 --> 00:01:26,590
+So in theory I should know what I'm talking about when it comes to network security.
+
+18
+00:01:26,710 --> 00:01:31,850
+Ethical hacking cyber security alerts have just been getting away with it all these years.
+
+19
+00:01:32,230 --> 00:01:38,290
+It's never been more important than it is today to maintain good security and to lie unmap helps in
+
+20
+00:01:38,290 --> 00:01:44,230
+that task and extremely passionate about helping you learn and achieve your goals.
+
+21
+00:01:44,270 --> 00:01:46,690
+And I'm very excited to be here to teach you.
+
+22
+00:01:46,840 --> 00:01:49,960
+If you have any questions please just ask.
+
+23
+00:01:49,960 --> 00:01:50,810
+I'm here to help.
